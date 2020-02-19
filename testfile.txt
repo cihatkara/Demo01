@@ -1,7 +1,3 @@
 This is my test text file. 
 
 First commit will be doing.
-
-adaldaslkdaslkdadsalk
-213213213
-last line added.
